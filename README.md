@@ -57,30 +57,37 @@ WEB & PRODUCT-BUILDING PLATFORM CREATING DIGITAL EXPERIENCES AND PROTOTYPES FOR 
 
 ---
 
-# 💻 Tech Stack & Tooling
+# 💻 Tech Stack & AI Arsenal
 
-### ⚡ Core Environment & Tools
+### ⚡ Core Environment & IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,docker,git,github,netlify,obsidian,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=py,vscode,docker,git,github,netlify,obsidian,linux" />
 </p>
 
-### 🤖 AI Agent Frameworks & Tooling
+### 🤖 AI Agent Systems & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Hermes_Agent-00FF88?style=for-the-badge&logoColor=black&color=00FF88" />
   <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manus_AI-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Antigravity-121212?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Prime_Agent-00D2FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white" />
 </p>
 
-### 🧠 LLM Models & APIs
+### 🧠 LLMs, Models & Research Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-1250A0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity-121212?style=for-the-badge&logo=perplexity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kimi_AI-6C5CE7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white" />
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta_AI-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq-FF4A00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_APIs-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 *Currently learning Python while leveraging AI extensively as a force multiplier for rapid prototyping, logic, and product architecture.*
