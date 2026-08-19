@@ -1,15 +1,15 @@
 <!--
-  BUILT BY ARNAV ARORA | @Arnav-GLS
+  BUILT FOR ARNAV ARORA | @Arnav-GLS
   BUILD. EXPERIMENT. SHIP. IMPROVE.
 -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=josefinsans&weight=500&size=25&duration=4500&pause=500&color=33FF33&width=500&lines=Hello%2C+it's+ARNAV+ARORA;AI+AGENT+BUILDER;VIBE+CODER+%26+PRODUCT+BUILDER" alt="ARNAV ARORA TYPING SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=26&duration=4000&pause=800&color=00FF88&width=500&lines=Hello%2C+I'm+ARNAV+ARORA;AI+AGENT+BUILDER;VIBE+CODER+%26+PROTOTYPER;LEARNING+PYTHON+%2B+AUTOMATION" alt="ARNAV ARORA TYPING SVG"/>
 </a>
 
 ### AI Agents • Multi-Agent Systems • Product Builder • Vibe Coder
 
-Building autonomous AI agents, research workflows, multi-agent architectures, and real-world products.
+Building autonomous AI agents, research workflows, multi-agent architectures, and real-world tools.
 
 > *"I don't want to only talk about what AI could do. I want to build things that actually attempt it."*
 
@@ -57,12 +57,23 @@ WEB & PRODUCT-BUILDING PLATFORM CREATING DIGITAL EXPERIENCES AND PROTOTYPES FOR 
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Stack & Tooling
 
+### ⚡ Core Environment & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,docker,git,github,netlify,obsidian,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=py,docker,git,github,netlify,obsidian,vscode,linux" />
 </p>
 
+### 🤖 AI Agent Frameworks & Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Hermes_Agent-00FF88?style=for-the-badge&logoColor=black&color=00FF88" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-121212?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prime_Agent-00D2FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white" />
+</p>
+
+### 🧠 LLM Models & APIs
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -72,12 +83,14 @@ WEB & PRODUCT-BUILDING PLATFORM CREATING DIGITAL EXPERIENCES AND PROTOTYPES FOR 
   <img src="https://img.shields.io/badge/Groq-FF4A00?style=for-the-badge&logoColor=white" />
 </p>
 
+*Currently learning Python while leveraging AI extensively as a force multiplier for rapid prototyping, logic, and product architecture.*
+
 ---
 
 # 👁️ Profile Visitors
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Arnav-GLS&color=33FF33&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Arnav-GLS&color=00ff88&style=for-the-badge" />
 </p>
 
 ---
@@ -117,4 +130,4 @@ WEB & PRODUCT-BUILDING PLATFORM CREATING DIGITAL EXPERIENCES AND PROTOTYPES FOR 
 
 ---
 
-> *"BUILD. EXPERIMENT. SHIP. IMPROVE."*
+> *"IDEAS → BUILDS → REALITY."*
